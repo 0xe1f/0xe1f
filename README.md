@@ -14,6 +14,7 @@ And sometimes they all [combine together in fascinating ways](https://github.com
 ![GitHub followers](https://img.shields.io/github/followers/0xe1f?label=Follow&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/0xe1f?style=social)
 
 I've spent most of my effort toward porting [various](https://github.com/0xe1f/FinalBurn-X) [emulators](https://github.com/CocoaMSX/CocoaMSX)
-to various systems, including a [wide variety](https://github.com/8bitpsp) of those of classic systems to Sony PSP.
+to various systems, including a [wide variety](https://github.com/8bitpsp) of those of classic systems to Sony PSP, but I've also had a couple
+of popular Android apps over the years, including Spark 360 and alphacross.
 
 [akop.org](https://www.akop.org)

@@ -16,6 +16,4 @@ And sometimes they all [combine together in fascinating ways](https://github.com
 I've spent most of my effort toward porting [various](https://github.com/0xe1f/FinalBurn-X) [emulators](https://github.com/CocoaMSX/CocoaMSX)
 to various systems, including a [wide variety](https://github.com/8bitpsp) of those of classic systems to Sony PSP.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=0xe1f&show_icons=true&theme=radical)
-
 [akop.org](https://www.akop.org)

@@ -2,7 +2,7 @@
 
 I'm Akop.
 
-I'm an Android engineer by profession, but I do a bit of
+I do a bit of
 everything, including [web](https://github.com/0xe1f/grouch), [graphics](https://github.com/CocoaMSX/CocoaMSX)
 and [low-level OS stuff](https://github.com/8bitpsp/psplib) - mostly whatever happens to be interesting at the moment.
 
